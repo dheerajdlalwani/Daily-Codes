@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Assignment1<JPL LABS>",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment1",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Assignment2<JPL LABS>",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment2",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddingTwoNumberWithScanner<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.AddingTwoNumberWithScanner",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddingTwoNumberWithoutScanner<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.AddingTwoNumberWithoutScanner",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AreaOfShapes<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.AreaOfShapes",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AreaOfShapesEfficient<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.AreaOfShapesEfficient",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArmFact<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.ArmFact",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicCalculator<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.BasicCalculator",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicInformationOfStudent<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.BasicInformationOfStudent",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicMathOperations<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.BasicMathOperations",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydTriangle<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.FloydTriangle",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HCFAndLCM<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.HCFAndLCM",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PascalTriangle<JPL LABS>",
+            "request": "launch",
+            "mainClass": "JavaLab.PascalTriangle",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArithmeticOperators<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.ArithmeticOperators",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Assignment<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.Assignment",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bitwise<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.Bitwise",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DataTypes<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.DataTypes",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Logical<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.Logical",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyShapes<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.MyShapes",
+            "projectName": "JPL LABS"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Relational<JPL LABS>",
+            "request": "launch",
+            "mainClass": "javalab2.Relational",
+            "projectName": "JPL LABS"
+        }
+    ]
+}
